@@ -4,9 +4,8 @@ How to run the app:
 
 1. clone the repository
 2. "npm install" to install all the missing dependencies
-3. run "npm run build" to build the app
-4. run "npm run start" to start the app
-5. have fun
+3. run "npm run start" to start the app
+4. have fun
 
 File structure:
 
